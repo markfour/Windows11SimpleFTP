@@ -1,0 +1,4 @@
+# バッチファイルは Shift_JIS + CRLF のまま扱う
+*.bat binary
+*.py text eol=lf
+*.md text eol=lf
